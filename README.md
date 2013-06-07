@@ -13,4 +13,5 @@ weixin_goodman007
 【武汉天气】【武汉公交】【武汉地铁】
 ```
 
-### 扫扫二维码![GoodMan007](./GoodMan007.jpg)
+### 微信扫扫二维码，添加人马公众账号^_^
+![GoodMan007](./GoodMan007.jpg)
